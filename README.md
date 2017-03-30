@@ -12,6 +12,3 @@ The key success of this project is easy and simple to understand a key-concept o
 Thanks iluwatar (https://github.com/triplesic/java-design-patterns), for a good idea to create a community for design pattern and inspire me to create the very basic design pattern for dummies :)
 
 
-# License
-This project is licensed under the terms of the MIT license.
-
