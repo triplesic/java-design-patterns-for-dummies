@@ -1,4 +1,4 @@
-# Factory Pattern
+# Builder Pattern
 base on: https://github.com/iluwatar/java-design-patterns
 
 ## Intent
