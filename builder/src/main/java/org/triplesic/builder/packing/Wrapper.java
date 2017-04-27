@@ -4,7 +4,7 @@ public class Wrapper implements Packing{
 
 	@Override
 	public String pack() {
-		return "Wrap!";
+		return "wrap with plastic";
 	}
 
 }
